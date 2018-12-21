@@ -1,0 +1,13 @@
+p {
+     font-family: Arial;
+   }
+
+h1 {
+ color: maroon;
+}
+
+.title{
+ color: teal;
+}
+
+<!--You can also change html elements in css by using it's class attribute-->
